@@ -2103,7 +2103,7 @@ a.meanmenu-reveal {
 .main-nav nav .navbar-brand {
     background-color: #0c1239;
     display: inline-block;
-    padding: 12px 60px;
+    padding: 0 60px;
     width: 25%;
 }
 .main-nav nav .navbar-brand img{
@@ -2333,7 +2333,7 @@ a.meanmenu-reveal {
     top: 0;
     background-color: #ffffff;
     border-radius: 0;
-    padding: 36px 30px 35px;
+    padding: 27px 22px 27px;
     border: 0;
     -webkit-transition: .5s all ease;
     transition: .5s all ease;
@@ -2717,9 +2717,9 @@ a.meanmenu-reveal {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1280px) {
-    .side-nav ul li .modal-btn {
+    /* .side-nav ul li .modal-btn {
         padding: 41px 22px 40px;
-    }
+    } */
     .side-nav ul li:nth-child(2) {
         padding-left: 8px;
         margin-left: 0;
