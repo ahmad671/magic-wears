@@ -2724,12 +2724,12 @@ a.meanmenu-reveal {
         padding-left: 8px;
         margin-left: 0;
     }
-    .main-nav.menu-shrink .side-nav ul li .modal-btn {
+    /* .main-nav.menu-shrink .side-nav ul li .modal-btn {
         padding: 30px 22px 31px;
-    }
-    .main-nav.menu-shrink .navbar-brand {
+    } */
+    /* .main-nav.menu-shrink .navbar-brand {
         padding: 17px 10px;
-    }
+    } */
 }
 /* 
 @media only screen and (min-width: 1800px) {
