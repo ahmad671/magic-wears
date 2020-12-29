@@ -2192,12 +2192,12 @@ a.meanmenu-reveal {
 .main-nav.menu-shrink .navbar-brand {
     background-color: #0c1239;
     display: inline-block;
-    padding: 17px 60px;
+    /* padding: 17px 60px; */
 }
 
-.main-nav.menu-shrink .side-nav ul li .modal-btn {
+/* .main-nav.menu-shrink .side-nav ul li .modal-btn {
     padding: 30px 30px 31px;
-}
+} */
 
 .side-nav ul {
     margin: 0;
@@ -2731,15 +2731,15 @@ a.meanmenu-reveal {
         padding: 17px 10px;
     }
 }
-
+/* 
 @media only screen and (min-width: 1800px) {
-    /* .main-nav.two .side-nav ul li .modal-btn {
+    .main-nav.two .side-nav ul li .modal-btn {
         padding: 27px 22px 27px;
-    } */
+    }
     .main-nav.menu-shrink .side-nav ul li .modal-btn {
         padding: 30px 30px 31px;
     }
-}
+} */
 
 @media only screen and (max-width: 991px) {
     .mean-container a.meanmenu-reveal span {
