@@ -2688,9 +2688,9 @@ a.meanmenu-reveal {
     .main-nav nav .navbar-brand {
         padding: 20px 10px;
     }
-    .side-nav ul li .modal-btn {
+    /* .side-nav ul li .modal-btn {
         padding: 34px 22px 33px;
-    }
+    } */
     .side-nav ul li:nth-child(2) {
         padding-left: 8px;
         margin-left: 0;
@@ -2705,9 +2705,9 @@ a.meanmenu-reveal {
         padding: 20px 10px;
         max-width: 160px;
     }
-    .main-nav.two .side-nav ul li .modal-btn {
+    /* .main-nav.two .side-nav ul li .modal-btn {
         padding: 27px 22px 27px;
-    }
+    } */
     .main-nav.two.menu-shrink .side-nav ul li .modal-btn {
         padding: 25px 22px 25px;
     }
@@ -2733,9 +2733,9 @@ a.meanmenu-reveal {
 }
 
 @media only screen and (min-width: 1800px) {
-    .main-nav.two .side-nav ul li .modal-btn {
+    /* .main-nav.two .side-nav ul li .modal-btn {
         padding: 27px 22px 27px;
-    }
+    } */
     .main-nav.menu-shrink .side-nav ul li .modal-btn {
         padding: 30px 30px 31px;
     }
