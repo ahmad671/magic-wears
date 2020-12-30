@@ -1815,7 +1815,7 @@ a.meanmenu-reveal {
 	margin-top: 55px;
 }
 .mean-container .mean-nav ul {
-	padding: 0;
+	padding-top: 4px;
 	margin: 0;
 	width: 100%;
 	border: none;
@@ -2301,7 +2301,6 @@ a.meanmenu-reveal {
 .side-nav ul li .nav-srh .search-icon {
     font-size: 25px;
     position: relative;
-    top: 4px;
     color: #ffffff;
     border: 0;
     outline: none;
